@@ -6,6 +6,13 @@
 此翻译版本中微不足道的 editor 白星
 20260523
 
+喵用Deepseek进行了全文的校对和统一词汇，现在应该好多了。有什么校对的人尽管来吧。
+虽然在过去半年间好像只有Anna来这边做了些校对。
+目前为止表格还没统一格式，Scalykind这个词喵不觉得现在见到了翻译名。
+也给出了术语总表，想要替换和干什么的请随意。
+20261101
+
+
 下面是目录，在此处的目录按照书中的顺序列出。越多人校对过的文本越可靠，这是理所当然的。
 
 引言（Introduction）　翻译：Sleepinglord 校对：白星
@@ -16,7 +23,7 @@
 反魔法（Antimagic）　翻译：Phantomatt 校对：白星、Anna.Cornelia
 估价（Appraise）　翻译：bill79822 校对：白星
 间章：规则的诞生（Interlude: Birth of a Rule） 翻译：白星
-防具（Armor）　翻译：Phantomatt 校对：白星
+盔甲（Armor）　翻译：Phantomatt 校对：白星
 防御等级（Armor Class）　翻译：bill79822 校对：白星
 攻击与伤害（Attacks and Damage）　翻译：十二楼五城 校对：白星
 借机攻击（Attacks of Opporatunity）　翻译：十二楼五城 校对：白星

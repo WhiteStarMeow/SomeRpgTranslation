@@ -1,0 +1,498 @@
+RC 术语总表
+
+格式：英文词 <TAB> 中文词 <TAB> 注释
+============================================================
+
+【章节名】
+
+Concentration	专注	章名
+Why Rules Die	为什么规则死了	章名
+Damage Reduction	伤害减免	章名
+Damage Types	伤害类别	章名
+Appraise	估价	章名
+Size	体型	章名
+Attacks of Opportunity	借机攻击	章名
+Initiative	先攻	章名
+Bull Rush	冲撞	章名
+Charge	冲锋	章名
+Ready	准备	章名
+Gaze Attacks	凝视攻击	章名
+Sunder	击破	章名
+Bonuses	加值	章名
+Action Types	动作类型	章名
+Aid Another	协助	章名
+Two-Weapon Fighting	双武器战斗	章名
+Counterspelling	反制法术	章名
+Antimagic	反魔法	章名
+Injury, Healing, and Death	受伤，医疗与死亡	章名
+Breath Weapon	喷吐武器	章名
+Falling	坠落	章名
+Weather	天气	章名
+Natural Attacks	天生攻击	章名
+Flanking	夹击	章名
+Ability Score Loss	属性丧失	章名
+Delay	延后	章名
+Introduction	引言	章名
+Influence and Interaction	影响与交互	章名
+Rules and Fun	律与娱	章名
+Fear	恐惧	章名
+Senses	感官	章名
+Action in Combat	战斗中的动作	章名
+Battle Grid	战斗方格地图	章名
+Sleight of Hand	手上功夫	章名
+Throwing Splash Weapons	投掷泼溅武器	章名
+Abstraction or Simulation	抽象或拟真	章名
+Cover	掩蔽	章名
+Grappling	擒抱	章名
+Changing Forms	改变形态	章名
+Attacks and Damage	攻击与伤害	章名
+Line of Effect	效果线	章名
+Spellcasting	施法	章名
+Helpless Defender	无助的防御者	章名
+Checks	检定	章名
+Weapons	武器	章名
+Poison	毒素	章名
+Gaseous Form	气化形体	章名
+Underwater Combat	水下战斗	章名
+Spell Preparation	法术准备	章名
+Spell Resistance	法术抗力	章名
+Spell Descriptions	法术描述	章名
+Spellcraft	法术辨识	章名
+The Living Game	活着的游戏	章名
+Etherealness	灵化状态	章名
+Light and Darkness	照明与黑暗	章名
+Objects	物体	章名
+Special Abilities	特殊能力	章名
+Conditions	状态	章名
+Disease	疾病	章名
+Movement	移动	章名
+Nonabilities	空属性	章名
+Suffocation	窒息	章名
+Trip	绊摔	章名
+Disarm	缴械	章名
+Energy Drain and Level Loss	能量吸取与等级减少	章名
+Energy	能量	章名
+Escape Artist and Use Rope	脱逃术与绳技	章名
+Spontaneous Casting	自发施法	章名
+Natural Hazards	自然灾害	章名
+Incorporeality	虚化状态	章名
+Feint	虚招	章名
+Line of Sight	视线	章名
+Disable Device and Open Lock	解除装置和开锁	章名
+Language	语言	章名
+Saving Throws	豁免检定	章名
+Encumbrance	负重	章名
+Track	追踪	章名
+Critical Hits	重击	章名
+Overrun	闯越	章名
+Birth of a Rule	间章：规则的诞生	章名
+Armor	盔甲	章名
+Fighting Defensively and Total Defense	防御式攻击与全防御	章名
+Armor Class	防御等级	章名
+Invisibility	隐形	章名
+Concealment	隐蔽	章名
+Starvation and Thirst	饥饿与干渴	章名
+Turning	驱散	章名
+Mounted Combat	骑乘战斗	章名
+Charm and Compulsion	魅惑与胁迫	章名
+Writings, Magical	魔法文本	章名
+Magic Items	魔法物品	章名
+
+【状态与条件】
+
+ability damage	属性伤害	状态名
+ability drain	属性吸取	状态名
+blinded	目盲	状态名
+blown away	吹飞	状态名
+checked	受阻碍	状态名
+confused	困惑	状态名
+cowering	畏缩	状态名
+dazed	晕眩	状态名
+dazzled	目眩	状态名
+dead	死亡	状态名
+deafened	耳聋	状态名
+dehydrated	脱水	状态名
+disabled	瘫痪	状态名
+dying	濒死	状态名
+energy drained	吸能	状态名
+entangled	纠缠	状态名
+exhausted	力竭	状态名
+fascinated	迷魂	状态名
+fatigued	疲乏	状态名
+flat-footed	措手不及	状态名
+frightened	惊惧	状态名
+grappled	擒抱	状态名
+helpless	无助	状态名
+immobilized	无法移动	状态名
+incorporeal	虚体	状态名
+invisible	隐形	状态名
+knocked down	被吹倒	状态名
+nauseated	反胃	状态名
+panicked	恐慌	状态名
+paralyzed	麻痹	状态名
+petrified	石化	状态名
+pinned	压制	状态名
+prone	倒地	状态名
+rebuked	被斥喝	状态名
+shaken	战栗	状态名
+sickened	恶心	状态名
+stable	伤势稳定	状态名
+staggered	恍惚	状态名
+stunned	震慑	状态名
+turned	驱散状态	状态名
+unconscious	昏迷	状态名
+
+【属性与数值】
+
+ability score	属性值	
+Strength	力量	
+Dexterity	敏捷	
+Constitution	体质	
+Intelligence	智力	
+Wisdom	感知	
+Charisma	魅力	
+ability modifier	属性调整值	
+ability check	属性检定	
+nonability	空属性	
+bonus	加值	
+penalty	减值	
+modifier	调整值	
+circumstance bonus	环境加值	
+competence bonus	表现加值	
+dodge bonus	闪避加值	
+enhancement bonus	增强加值	
+insight bonus	洞察加值	
+luck bonus	幸运加值	
+morale bonus	士气加值	
+deflection bonus	偏斜加值	
+resistance bonus	抗力加值	
+sacred bonus	神圣加值	
+profane bonus	亵渎加值	
+size bonus	体型加值	
+armor bonus	盔甲加值	
+shield bonus	盾牌加值	
+natural armor	天生防御	
+base attack bonus	基本攻击加值	
+armor check penalty	防具检定减值	
+maximum Dexterity bonus	最大敏捷加值	
+arcane spell failure	奥术失败率	
+hit dice	生命骰	
+hit points	生命值	
+
+【检定与豁免】
+
+check	检定	
+skill check	技能检定	
+saving throw	豁免检定	
+Fortitude save	强韧豁免	
+Reflex save	反射豁免	
+Will save	意志豁免	
+difficulty class	DC	
+take 10	取10	
+take 20	取20	
+opposed check	对抗检定	
+attack roll	攻击检定	
+damage roll	伤害骰	
+
+【动作与回合】
+
+action	动作	
+standard action	标准动作	
+move action	移动动作	
+full-round action	整轮动作	
+free action	自由动作	
+swift action	迅捷动作	
+immediate action	直觉动作	
+full attack	全力攻击	
+round	轮	
+turn	回合	
+initiative	先攻	
+surprise round	突袭轮	
+total defense	全防御	
+fighting defensively	防御式攻击	
+delay	延后	
+ready	准备	
+withdraw	撤退	
+act	行动	
+
+【战斗动作】
+
+attack of opportunity	借机攻击	
+aid another	协助他人	
+bull rush	冲撞	
+charge	冲锋	
+disarm	缴械	
+feint	虚招	
+grapple	擒抱	
+trip	绊摔	
+sunder	击破	
+overrun	闯越	
+pin	压制	
+melee attack	近战攻击	
+ranged attack	远程攻击	
+touch attack	接触攻击	
+ranged touch attack	远程接触攻击	
+reach	触及	
+threatened square	威胁格	
+flanking	夹击	
+cover	掩蔽	
+concealment	隐蔽	
+soft cover	软掩蔽	
+total concealment	全隐蔽	
+natural weapon	天生武器	
+critical hit	重击	
+coup de grace	致命一击	
+defender	防御者	
+attacker	攻击者	
+improved cover	增强掩蔽	
+limited cover	受限的掩蔽	
+improved grab	精通擒抱	
+improved overrun	精通闯越	
+improved evasion	精通反射闪避	
+improved disarm	精通缴械	
+improved sunder	精通击破	
+cleave	顺势斩	
+great cleave	强力顺势斩	
+spirited charge	奋力冲刺	
+quick draw	即时备战	
+combat reflexes	战斗反射	
+
+【伤害与生命】
+
+damage	伤害	
+nonlethal damage	非致死伤害	
+lethal damage	致死伤害	
+temporary hit points	临时生命值	
+damage reduction	伤害减免	
+hardness	硬度	
+massive damage	大量伤害	
+energy drain	能量吸取	
+negative level	负向等级	
+fast healing	快速医疗	
+regeneration	再生	
+immunity	免疫	
+resistance	抗力	
+vulnerability	易伤	
+healing	医疗	
+cure spell	治疗法术	
+damage types	伤害类别	
+deathless	不朽	
+construct	构装	
+undead	不死	
+
+【法术与施法】
+
+spell	法术	
+spell level	法术等级	
+caster level	施法者等级	
+spellcasting	施法	
+spell preparation	法术准备	
+spontaneous casting	自发施法	
+counterspell	反制法术	
+dispel	解除	
+concentration	专注	
+spell resistance	法术抗力	
+spell-like ability	类法术能力	
+supernatural ability	超自然能力	
+extraordinary ability	特异能力	
+special ability	特殊能力	
+spell description	法术描述	
+duration	持续时间	
+range	射程	
+area	范围	
+casting time	施法时间	
+components	成分	
+material component	材料成分	
+somatic component	姿势成分	
+verbal component	言语成分	
+focus	法器	
+arcane	奥术	
+divine	神术	
+antimagic	反魔法	
+magic item	魔法物品	
+spellcraft	法术辨识	
+use magic device	使用魔法装置	
+forgery	伪造文书	
+metamagic	超魔	
+subschool	子学派	
+descriptor	描述符	
+spell slot	法术槽位	
+divine focus	法器	
+
+【魔法物品】
+
+wand	魔杖	
+scroll	卷轴	
+potion	药水	
+staff	法杖	
+rod	权杖	
+ring	戒指	
+armor	盔甲	
+weapon	武器	
+charges	充能	
+command word	命令词	
+activation	启动	
+
+【移动与环境】
+
+movement	移动	
+speed	速度	
+difficult terrain	困难地形	
+squeeze	挤过	
+jump	跳跃	
+climb	攀爬	
+swim	游泳	
+balance	平衡	
+tumble	翻滚	
+falling	坠落	
+drowning	溺水	
+suffocation	窒息	
+starvation	饥饿	
+thirst	干渴	
+poison	毒素	
+disease	疾病	
+weather	天气	
+underwater combat	水下战斗	
+mounted combat	骑乘战斗	
+encumbrance	负重	
+load	负载	
+travel	旅行	
+terrain	地形	
+
+【感官与视线】
+
+line of sight	视线	
+line of effect	效果线	
+darkvision	黑暗视觉	
+low-light vision	昏暗视觉	
+blindsight	盲视	
+blindsense	盲感	
+tremorsense	震颤感知	
+scent	灵敏嗅觉	
+gaze attack	凝视攻击	
+light and darkness	照明与黑暗	
+spot	侦察	
+listen	聆听	
+search	搜索	
+hide	躲藏	
+move silently	潜行	
+
+【生物与体型】
+
+creature	生物	
+size	体型	
+Fine	超微型	
+Diminutive	微型	
+Tiny	超小型	
+Small	小型	
+Medium	中型	
+Large	大型	
+Huge	超大型	
+Gargantuan	巨型	
+Colossal	超巨型	
+Construct	构装体	
+Elemental	元素	
+Fey	精类	
+Humanoid	类人生物	
+Magical beast	魔法兽	
+Ooze	泥怪	
+Outsider	异界生物	
+Undead	不死生物	
+Vermin	虫类	
+Plant	植物	
+swarm	集群	
+subtype	亚种	
+space	占据空间	
+corporeal	实体	
+ally	盟友	
+
+【技能】
+
+Appraise	估价	
+Balance	平衡	
+Bluff	唬骗	
+Climb	攀爬	
+Concentration	专注	
+Diplomacy	交涉	
+Disable Device	解除装置	
+Escape Artist	脱逃术	
+Gather Information	收集信息	
+Heal	医疗	
+Hide	躲藏	
+Intimidate	威吓	
+Jump	跳跃	
+Listen	聆听	
+Move Silently	潜行	
+Open Lock	开锁	
+Ride	骑术	
+Search	搜索	
+Sense Motive	察言观色	
+Sleight of Hand	手上功夫	
+Spellcraft	法术辨识	
+Spot	侦察	
+Survival	生存	
+Swim	游泳	
+Tumble	翻滚	
+Use Magic Device	使用魔法装置	
+Use Rope	绳技	
+trapfinding	寻找陷阱	
+skill rank	技能等级	
+handle animal	驯养动物	
+perform	表演	
+disguise	易容	
+knowledge	知识	
+bardic knowledge	轶闻知识	
+craft	手艺	
+profession	专业	
+
+【能量与阵营】
+
+acid	强酸	
+cold	寒冷	
+electricity	电击	
+fire	火焰	
+sonic	音波	
+force	力场	
+negative energy	负能量	
+positive energy	正能量	
+lawful	守序	
+chaotic	混乱	
+good	善良	
+evil	邪恶	
+alignment	阵营	
+
+【人物与职位】
+
+DM	DM	
+player character	PC	
+nonplayer character	NPC	
+fighter	战士	
+wizard	法师	
+cleric	牧师	
+sorcerer	术士	
+rogue	游荡者	
+paladin	圣武士	
+ranger	游侠	
+bard	吟游诗人	
+druid	德鲁伊	
+monk	武僧	
+barbarian	野蛮人	
+character	角色	
+creature type	生物类型	
+
+【其他】
+
+improved cover	增强掩蔽	
+school of magic	学派	
+spell completion	储有法术	
+spell trigger	启动法术	
+special qualities	特质	
+Decipher Script	文书解读	
+
+【英文原书未出现】
+
+level adjustment	等级调整	原书无此词
+wondrous item	奇物	原书无此词
+use-activated	使用激活	原书无此词
+Aberration	异怪	原书无此词
+Monstrous humanoid	人形怪物	原书无此词
